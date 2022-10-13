@@ -1,3 +1,2 @@
-print("asd")
-z = 10
-print(z)
+x = 3 + 9
+print(x)
