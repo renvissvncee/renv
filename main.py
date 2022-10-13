@@ -1,3 +1,3 @@
 print("asd")
-x = 10
-print(x)
+z = 10
+print(z)
